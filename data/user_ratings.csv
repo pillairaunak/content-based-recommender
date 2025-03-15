@@ -1,0 +1,11 @@
+user_id,movie_id,rating
+John,0,1
+John,1,-1
+John,5,1
+John,15,1
+John,18,-1
+Joan,0,-1
+Joan,1,1
+Joan,3,1
+Joan,11,-1
+Joan,16,1
